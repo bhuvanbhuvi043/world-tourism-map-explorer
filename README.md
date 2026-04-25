@@ -10,8 +10,6 @@ The project helps users visually explore famous travel destinations across the w
 
 ## 🔗 Live Demo
 
-After enabling GitHub Pages, your live link will look like this:
-
 ```text
 https://bhuvanbhuvi043.github.io/world-tourism-map-explorer/
 ```
